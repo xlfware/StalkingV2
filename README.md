@@ -19,3 +19,4 @@ Every game I play WILL have a script for it that's threat and a promise
 
 It's your game play it how YOU want to play it don't let rules hold you back.
 ```
+loadstring(game:HttpGet('https://raw.githubusercontent.com/xlfware/StalkingV2/main/First%20look%20at%20Stalking%20V2.lua'))()
