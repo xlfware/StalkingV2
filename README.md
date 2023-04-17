@@ -9,7 +9,6 @@ This is a FIRST look at what stalking V2 will be this is in no way shape or form
 --Breezy Bay Island Builder
 --Castaway ALPHA
 --start an emo band from your garage tycoon
---Frappé V4
 --Smoothie Factory Tycoon
 --Doors
 --Games Unite Testing Place
